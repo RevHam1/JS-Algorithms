@@ -1,0 +1,1 @@
+This repository contain an assortment of Algorithms and Data Structures written in JavaScript. The type of algorithms in this repository include basic functions, conditionals, loops arrays, iterate, nested, objects, advance, predictions, singly linked list, doubly linked list, stacks, queue, trees, graphs, and recursion
